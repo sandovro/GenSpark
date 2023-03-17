@@ -1,0 +1,11 @@
+body {
+    background-color: rgba(0, 128, 0, 0.6) !important;
+  }
+
+h2 {
+    text-align: center;
+}
+
+.box{
+    align-items: right;
+}
